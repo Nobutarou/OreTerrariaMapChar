@@ -1,7 +1,7 @@
 {
   "Selected Profile": "Custom",
   "Redigit's Pick": {
-    "Last Launched Version": 188,
+    "Last Launched Version": 194,
     "Settings": {
       "Edittable": true,
       "Gamepad - HotbarRadialHoldTime": 16,
@@ -110,6 +110,12 @@
       ],
       "Hotbar10": [
         "D0"
+      ],
+      "ViewZoomIn": [
+        "OemPlus"
+      ],
+      "ViewZoomOut": [
+        "OemMinus"
       ]
     },
     "Gamepad": {
@@ -288,7 +294,7 @@
     }
   },
   "Yoraiz0r's Pick": {
-    "Last Launched Version": 188,
+    "Last Launched Version": 194,
     "Settings": {
       "Edittable": true,
       "Gamepad - HotbarRadialHoldTime": 16,
@@ -397,6 +403,12 @@
       ],
       "Hotbar10": [
         "D0"
+      ],
+      "ViewZoomIn": [
+        "OemPlus"
+      ],
+      "ViewZoomOut": [
+        "OemMinus"
       ]
     },
     "Gamepad": {
@@ -574,7 +586,7 @@
     }
   },
   "Console (Playstation)": {
-    "Last Launched Version": 188,
+    "Last Launched Version": 194,
     "Settings": {
       "Edittable": true,
       "Gamepad - HotbarRadialHoldTime": 16,
@@ -683,6 +695,12 @@
       ],
       "Hotbar10": [
         "D0"
+      ],
+      "ViewZoomIn": [
+        "OemPlus"
+      ],
+      "ViewZoomOut": [
+        "OemMinus"
       ]
     },
     "Gamepad": {
@@ -858,7 +876,7 @@
     }
   },
   "Console (Xbox)": {
-    "Last Launched Version": 188,
+    "Last Launched Version": 194,
     "Settings": {
       "Edittable": true,
       "Gamepad - HotbarRadialHoldTime": 16,
@@ -967,6 +985,12 @@
       ],
       "Hotbar10": [
         "D0"
+      ],
+      "ViewZoomIn": [
+        "OemPlus"
+      ],
+      "ViewZoomOut": [
+        "OemMinus"
       ]
     },
     "Gamepad": {
@@ -1142,7 +1166,7 @@
     }
   },
   "Custom": {
-    "Last Launched Version": 188,
+    "Last Launched Version": 194,
     "Settings": {
       "Edittable": true,
       "Gamepad - HotbarRadialHoldTime": 13,
@@ -1254,6 +1278,12 @@
       ],
       "Hotbar10": [
         "D0"
+      ],
+      "ViewZoomIn": [
+        "OemPlus"
+      ],
+      "ViewZoomOut": [
+        "OemMinus"
       ]
     },
     "Gamepad": {
